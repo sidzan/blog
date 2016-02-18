@@ -1,0 +1,8 @@
+<form model="yodlee.config" title="Yodlee Config">
+    <field name="cobrand_username"/>    
+    <field name="cobrand_password"/>    
+    <field name="rest_url"/>    
+    <field name="cobrand_id"/>    
+    <field name="app_id"/>    
+    <field name="fastlink_url"/>    
+</form>
