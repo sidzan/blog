@@ -1,5 +1,0 @@
-<inherit inherit="account_menu">
-    <item string="Conversion Balances" position="after">
-        <item string="Yodlee Configuration" action="yodlee_config"/>
-    </item>
-</inherit>
