@@ -1,0 +1,6 @@
+<action>
+    <field name="string">Menus</field>
+    <field name="view_cls">multi_view</field>
+    <field name="model">content</field>
+    <field name="menu">blog_menu</field>
+</action>

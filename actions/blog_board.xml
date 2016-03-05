@@ -1,0 +1,6 @@
+<action>
+    <field name="view_cls">board</field>
+    <field name="view_xml">blog_board</field>
+    <field name="menu">blog_menu</field>
+</action>
+
