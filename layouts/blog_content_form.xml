@@ -1,0 +1,4 @@
+<form model="content">
+    <field name="title"/>
+    <field name="body"/>
+</form>

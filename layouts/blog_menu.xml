@@ -1,0 +1,4 @@
+<menu string="Blog">
+    <item string="Dashboard" action="blog_board"/>
+    <item string="Content" action="blog_content"/>
+</menu>

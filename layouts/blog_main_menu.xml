@@ -1,0 +1,5 @@
+<inherit inherit="main_menu">
+    <item string="Contacts" position="after">
+        <item string="Blog" action="blog_board"/>
+    </item>
+</inherit>
